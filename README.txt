@@ -1,0 +1,1 @@
+A model of war game with relationships between players and cards 
